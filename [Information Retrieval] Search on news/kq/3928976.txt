@@ -1,0 +1,11 @@
+
+Tham vọng phủ Internet toàn cầu bằng SpaceX của Elon Musk 
+
+21h30 ngày 24/5 (giờ Mỹ), tên lửa Falcon 9 khởi hành từ tổ hợp phóng vũ trụ 40 ở Trạm không quân Cape Canaveral (Mỹ), lần lượt đưa 60 vệ tinh phát sóng Internet vào không gian, thuộc Quỹ đạo thấp (LEO) với độ cao khoảng 400 km. Sau vụ phóng thành công, tầng đầu tiên của tên lửa nhẹ nhàng đáp xuống sà lan nổi trên biển. Đây là lần thứ 40 tên lửa này thu hồi thành công.
+Đại diện của SpaceX cho biết, nhóm vệ tinh vừa phóng là khối lượng hàng lớn nhất mà Falcon 9 từng đưa lên quỹ đạo (mỗi thiết bị có trọng lượng 227 kg). Tuy nhiên, quan trọng hơn, chúng là bước khởi đầu thành công của một phần mạng lưới Starlink của SpaceX - dự án tham vọng của Musk, giúp phủ sóng Internet toàn cầu với chi phí phải chăng.
+Theo Gizmodo, ông chủ SpaceX từ lâu đã ấp ủ ý tưởng phóng vệ tinh phủ sóng Internet giá rẻ, có thể truy cập được đến các khu vực xa xôi trên thế giới, và bắt tay thực hiện Starlink từ 2015. 
+Tháng 2/2018, sau khi phóng thử thành công microsat 2a và 2b - hai vệ tinh khởi đầu cho dự án Starlink, Musk liên tục chia sẻ niềm vui đó trên Twitter. Dù không đề cập chi tiết, ông coi đây là nguồn doanh thu mới và quan trọng cho SpaceX, hỗ trợ tham vọng lớn hơn: tài trợ cho dự án đưa người lên sao Hỏa. Ông chủ SpaceX trông đợi dịch vụ Internet này một khi ra mắt sẽ thu về lợi nhuận khoảng 3 tỷ USD mỗi năm.
+Theo SpaceNews, 60 vệ tinh vừa phóng và hai vệ tinh trước đó chứng tỏ Musk không nói suông. Trước đây, có một số người nghi ngờ dự án, nhưng CEO Tesla cho thấy sự tâm huyết và muốn hiện thực hóa việc phủ sóng Internet toàn cầu.
+SpaceX dự kiến phóng gần 12.000 vệ tinh lên vùng LEO, chia thành hai chòm với số lượng 4.409 vệ tinh và 7.518 vệ tinh. Ủy ban Truyền thông Liên bang Mỹ (FCC) đã chấp thuận phóng một nửa con số trên trong vòng 6 năm tới.
+Để hoạt động, mạng lưới Starlink phải có ít nhất 400 vệ tinh được kích hoạt. Nhưng theo Musk, 800 vệ tinh mới là con số tối ưu để đạt tốc độ cao. Đồng thời, vào nửa sau 2020, hệ thống này sẽ phát đi tín hiệu mạng đầu tiên.
+Đối với mỗi vệ tinh được phóng lên, thời gian tồn tại của nó trên không gian không quá 5 năm, nhằm đảm bảo hệ thống Starlink luôn được cập nhật phần cứng mới nhất. Chúng được trang bị công nghệ giúp tránh va chạm trong LEO. 

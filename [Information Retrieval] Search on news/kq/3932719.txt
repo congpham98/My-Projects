@@ -1,0 +1,7 @@
+
+Gmail, YouTube bị gián đoạn 
+
+YouTube, Snapchat, Gmail, Nest, Discord và một số dịch vụ trên web khác của Google bị gián đoạn từ 2h ngày 3/6 (giờ Hà Nội) và đã được khắc phục sau hơn 4 tiếng. Nguyên nhân chính được xác định do lỗi với dịch vụ lưu trữ trực tuyến Google Cloud.
+Theo Verge, vấn đề ảnh hưởng lớn đến người dùng ở bờ Đông nước Mỹ nhưng một số người dùng ở châu Âu cũng cho biết không thể truy cập YouTube và Gmail trong nhiều giờ. Trang Down Detector ghi nhận thêm rằng người dùng ở Nhật và một phần của Australia cũng báo khó truy cập các dịch vụ này.
+Các nền tảng cùng sử dụng Google Cloud như Discord, Snapchat, Vimeo cũng bị ảnh hưởng nhưng mức độ được cho là ít nghiêm trọng hơn. Ngay cả dịch vụ mua sắm trực tuyến Shopify cũng bị gián đoạn, khiến khách hàng không thể xử lý thanh toán thẻ tín dụng trong nhiều giờ.
+Google cho rằng sự cố đến từ việc nghẽn mạng ở Mỹ đồng thời gửi lời xin lỗi người dùng. Tháng 3, hàng loạt dịch vụ của Google bao gồm Gmail, Drive bị "sập" trên toàn cầu. Trang chia sẻ video lớn nhất thế giới YouTube đã ngừng hoạt động trong hơn một giờ vào đầu năm nay và lần khác vào tháng 10/2018.

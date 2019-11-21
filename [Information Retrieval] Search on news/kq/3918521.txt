@@ -1,0 +1,44 @@
+
+'Với giá điện bậc 0 - 50 - 100, chỉ xài quạt, bóng đèn mới đáp ứng được' 
+
+Sau bài viết Thứ trưởng Công Thương: 'Sẽ tính lại biểu giá điện bậc thang', nhiều độc giả có ý kiến 6 bậc giá điện sinh hoạt hiện nay chưa hợp lý:
+Tôi thấy nên bỏ bậc 2 và 3 trong cách tính tiền điện đi, các bậc 2,3 sau khi bỏ sẽ tính giá như bậc 1. Các bậc sau giữ nguyên. Vì các vật dụng cơ bản trong nhà mỗi hộ dân là cần có đèn, quạt, tủ lạnh, nồi cơm điện, bếp điện, tivi... các vật dụng này tính sơ sơ cũng tốn gần 200 kWh điện.
+Đó là mình tính đi làm, ít ở nhà đó nha. Ngành điện đưa ra mức 50, 100kwh chẳng khác nào đánh đố người dân bắt họ chỉ xài quạt và bóng đèn.
+Ý kiến của tôi bậc đầu là 200 kWh, các bậc tiếp theo tăng lũy kế 100 kWh.
+Cris Van Dat
+Sau khi EVN thông báo tăng giá điện sinh hoạt từ 20/3 thì mọi gia đình hầu hết đều phải trả tiền điện rất nhiều, thậm chí nhiều gấp đôi so với trước đây, nên hầu hết mọi người đổ lỗi cho nguyên nhân chính dẫn đến trả nhiều tiền là do điện tăng giá quá cao. Xin chia sẻ đến các bạn thế này:
+Theo tìm hiểu của tôi:
+1. Nếu sử dụng 50 kWh:
+- Mức giá cũ: 1.549 x 50 = 77.450 + VAT 10% = 85.195 đồng.
+- Mức giá mới: 1.678 x 50 = 83.900 + VAT 10% = 92.290 đồng.
+- Số tiền tăng thêm: 7.095 đồng.
+2. Từ 51 kWh đến 100 kWh:
+- Mức giá cũ: 1.600 x 50 = 80.000 + VAT 10% = 88.000 đồng.
+- Mức giá mới: 1.734 x 50 = 86.700 + VAT 10% = 95.370 đồng.
+- Số tiền tăng thêm: 7.370 đồng.
+3. Từ 101 kWh đến 200 kWh:
+- Mức giá cũ: 1.858 x 100 = 185.800 + VAT 10% = 204.380 đồng.
+- Mức giá mới: 2.014 x 100 = 201.400 + VAT 10% = 221.540 đồng.
+- Số tiền tăng thêm: 17.160 đồng.
+4. Từ 201 kWh đến 300 kWh:
+- Mức giá cũ: 2.340 x 100 = 234.000 + VAT 10% = 257.400 đồng.
+- Mức giá mới: 2536 x 100 = 253.600 + VAT 10% = 278.960 đồng.
+- Số tiền tăng thêm: 21.560 đồng.
+5. Từ 301 kWh đến 400 kWh:
+- Mức giá cũ: 2.615 x 100 = 261.500 + VAT 10% = 287.650 đồng.
+- Mức giá mới: 2.834 x 100 = 283.400 + VAT 10% = 311.740 đồng.
+- Số tiền tăng thêm: 24.090 đồng.
+6. Từ 401 kWh đến 500 kWh:
+- Mức giá cũ: 2.701 x 100 = 270.100 + VAT 10% = 297.110 đồng.
+- Mức giá mới: 2.927 x 100 = 292.700 + VAT 10% = 321.970 đồng.
+- Số tiền tăng thêm: 24.860 đồng.
+Như vậy:
+- Sử dụng 100 kWh thì số tiền phải trả là 187.660 đồng, tăng 14.465 đồng. Tuy nhiên, vô cùng ít gia đình chỉ dùng ở mức này.
+- Sử dụng 200 kWh thì số tiền phải trả là 409.200 đồng, tăng 31.625 đồng. Đây là mức sử dụng điện lý tưởng nhất, tuy nhiên cũng rất ít gia đình dừng ở mức này.
+- Sử dụng 300Kwh thì số tiền phải trả là 688.160 đồng, tăng 53.185 đồng.
+- Sử dụng 400Kwh thì số tiền phải trả là 999.900 đồng, tăng 77.275 đồng.
+- Với mức dùng 500Kwh phổ biến trong những ngày nắng nóng thì số tiền phải trả là 1.321.870 đồng, tăng 102.135 đồng.
+Tôi nghĩ mức tăng này là chấp nhận được được.
+trihungtpbr
+>> Chia sẻ bài viết của bạn cho trang Ý kiến  tại đây.
+Thư Trung tổng hợp

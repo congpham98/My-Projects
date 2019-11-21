@@ -1,0 +1,20 @@
+
+Thang điện luỹ kế 50-100 kWh là chưa hợp lý 
+
+Sau gần 2 tháng giá điện được điều chỉnh, đã có nhiều tranh cãi về mức giá mới này. 
+Tháng trước, có nhiều gia đình mức độ sử dụng vẫn vậy nhưng tiền điện phải trả tăng lên rất nhiều, có gia đình tăng lên 80% so với tháng trước. Lý giải cho điều này ngành điện nói do nắng nóng nên lượng điện tiêu thụ nhiều hơn và phải trả nhiều hơn. Nghe thì cũng hợp lí đó bởi dùng nhiều hơn đương nhiên phải trả nhiều hơn là đúng. 
+Tôi có vài tính toán để thấy vài vấn đề hiện nay liên quan đến ngành điện và giá điện.
+Sau mấy chục năm ngành điện vẫn giữ bậc thang điện với mức khởi điểm 50KWh. Tại sao lại vẫn giữ mức này khi mà đời sống nhân dân đã nâng cao hơn, thiết bị sử dụng điện nhiều hơn và nhu cầu cơ bản 50kWh là sự lạc hậu cần thay đổi.
+Mức cơ bản của một gia đình mà tính chỉ 50kWh là không hợp lí chút nào. Tôi đến nơi thu tiền để xem các gia đình dùng điện thế nào. Gần như mức dưới 100kWh khá là ít, trừ những hộ nghèo hay những hộ gia đình mà ít ở nhà do đi làm, gần như không có thiết bị gì mấy.
+Một gia đình nhu cầu cơ bản như hiện nay là có tủ lạnh, tivi, quạt, bóng điện, nồi cơm, máy giặt (tôi tính mức cơ bản và thấp nhất).
+Tôi đã đo đạc và tính toán như sau với một gia đình một đến ba người:
+1. Tivi 80 W x 4h/ngày x 30 ngày = 9,6 kWh
+2. Quạt 2 chiếc x 40 W x 14h/ngày x 30 ngày = 33,6 kWh
+3. Tủ lạnh 1 kWh/ngày x 30 ngày = 30 kWh. (đây là mức thấp nhất với tủ inverter và ít mở, ít để đồ mới, thực tế thì trên 50 kWh)
+4. Bóng điện: Gồm bóng chiều sáng cơ bản 2 chiếc x 20 W x 5h/ngày x 30 ngày =  6 kWh. Một bóng bảo vệ ban đêm,  hành lang, sân, thềm 7 W x 12h/ngày x 30 ngày = 2.5 kWh
+5. Máy giặt trung bình 0,3 kWh/ lần x 1 lần/ ngày x 30 ngày = 9 kWh
+6. Nồi cơm 0,25 kWh/ lần x 2 lần/ngày x 30 ngày = 15 kWh
+7. Nạp điện thoại, hao phí đường dây, hao phí chế độ chờ một số thiết bị, hao phí bóng đèn báo điện 10 W/h x 24h x 30 ngày = 7,2 kWh
+Như vậy với một gia đình với nhu cầu cơ bản hiện nay thì lượng điện tiêu thụ hơn 100kWh/tháng và sử dụng gần như rất tiết kiệm mới có con số này. Thế thì tại sao ngành điện vẫn để mức cơ bản 50kWh mà không nâng lên 100kWh?
+>> Chia sẻ bài viết của bạn cho trang Ý kiến  tại đây.
+Thanh Y

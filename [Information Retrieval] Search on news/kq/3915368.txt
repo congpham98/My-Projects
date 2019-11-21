@@ -1,0 +1,11 @@
+
+Bài toán lớp 3 khiến người lớn 'rối não' tìm lời giải 
+
+Đề bài ra như sau: Cho dãy số: 3,9,18, 40,... , ...., và hỏi số thứ 6 trong dãy số này là bao nhiêu? 4 đáp án lần lượt được đưa ra là: 40, 45, 50, 55.
+Rất nhiều lập luận và đáp án được đưa ra.
+Một đọc giả đưa ra kết quả của số thứ 6 là 55 với lập luận của riêng mình như sau:
+Ta thấy: 3 + 55 = 9 + 49 = 18 + 40
+Dãy số là: 3, 9, 18, 40, 49, 55 
+Đáp án của số thứ 6 là 55.
+Trong khi đó số khác lại cho rằng bài toán thực ra rất đơn giản, chỉ là tìm ra số tăng dần mà không có bất kỳ quy luật nào. Trong dãy số trên thì số thứ 5 là 45, thứ 6 là 50 và nếu có hỏi số thứ 7 thì đó là số 55.
+Còn bạn nghĩ kết quả của bài toán là bao nhiêu?

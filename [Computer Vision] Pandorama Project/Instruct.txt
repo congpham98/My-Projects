@@ -1,0 +1,8 @@
+Step 1: Make sure "input" and "output" folder are empty
+Step 2: Put your images in "input" folder
+Step 3: Run "Stitching Version 1.0"
+Step 4: Take the result from "output" folder
+
+By Cong, Viet Anh, Long Duy
+Any ideals or errors, please contact 16520132@gm.uit.edu.vn
+Thank you !

@@ -1,0 +1,9 @@
+
+49 triệu tài khoản người nổi tiếng trên Instagram bị lộ thông tin 
+
+Theo Techcrunch, một cơ sở dữ liệu chứa thông tin của hàng triệu người nổi tiếng, người có ảnh hưởng hay tài khoản của một số thương hiệu được xác thực đã bị lộ trên mạng hôm nay. Toàn bộ được lưu trữ trên dịch vụ Amazon Web Services và bất kỳ ai cũng có thể truy cập. Tại thời điểm phát hiện, số tài khoản bị lộ thông tin là khoảng 49 triệu và vẫn tiếp tục tăng lên. 
+Mỗi bản ghi trong tập tin nói trên chứa dữ liệu công khai được lấy từ các tài khoản Instagram có ảnh hưởng, bao gồm cả thông tin cơ bản, ảnh, số lượng người theo dõi, có được xác thực hay không và vị trí địa lý của người dùng đó. Ngoài ra, một số tài khoản còn đi kèm cả thông tin liên hệ riêng tư, như địa chỉ email và số điện thoại. 
+Theo nhà nghiên cứu bảo mật Anurag Sen, cơ sở dữ liệu này được tạo bởi một công ty tiếp thị truyền thông mạng xã hội có tên Chtrbox, trụ sở tại Ấn Độ. Mỗi bản ghi trong tập tin đều có thêm cột tính giá trị của từng tài khoản, dựa trên số người theo dõi, mức độ tương tác, lượt tiếp cận, lượt thích và chia sẻ mà họ có. Những thông số này cho phép Chtrbox ước tính số tiền phải trả cho quảng cáo hiển thị trên những tài khoản tương ứng. 
+Techcrunch đã liên hệ thử với một số người có tên trong danh sách bị lộ nhưng tất cả đều cho biết không có mối liên quan với công ty Chtrbox. Ngay sau khi báo chí đăng tải thông tin về tìm cách tiếp cận, Chtrbox cũng đã ẩn tập tin. 
+Đại diện của Instagram cho biết đang liên hệ với Chtrbox để làm rõ lý do tại sao công ty này có được số dữ liệu khổng lồ trên. 
+Giống như công ty mẹ Facebook, Instagram đang gặp nhiều rắc rối liên quan đến để lộ thông tin người dùng. Hai năm trước, công ty từng thừa nhận lỗi bảo mật trong hàm API cho phép tin tặc lấy được địa chỉ email và số điện thoại của 6 triệu tài khoản. Vài tháng sau đó, mạng xã hội hình ảnh lớn nhất thế giới buộc phải giới hạn số lượng ứng dụng được phép yêu cầu quyền truy cập ứng dụng. 

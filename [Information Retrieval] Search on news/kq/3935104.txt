@@ -1,0 +1,8 @@
+
+Quân đội Mỹ tìm cách điều khiển UAV bằng ý nghĩ 
+
+Giáo sư Jacob Robinson thuộc Đại học Rice, phụ trách nhóm nghiên cứu của DARPA, cho biết thiết bị có thiết kế giống như một chiếc mũ bó sát đầu, có thể thu thập sóng não và biến chúng thành tín hiệu điều khiển các hệ thống không gian mạng và máy bay không người lái (UAV).
+"Luôn tồn tại một độ trễ về thời gian giữa suy nghĩ và cơ bắp của con người để tương tác với thế giới bên ngoài. Do đó, ý tưởng của nhóm nghiên cứu là nếu chúng ta có thể liên hệ trực tiếp bằng sóng não với thế giới bên ngoài mà không cần thông qua cử động cơ, chúng ta có thể giao tiếp nhanh hơn và với nhiều thiết bị hơn", Robinson nói.
+DARPA cho biết công nghệ này sẽ chỉ được sử dụng với mục đích quân sự và hy vọng sẽ bắt đầu thử nghiệm trực tiếp với binh sĩ trong 4 năm tới. Tuy nhiên, giáo sư Robinson thừa nhận các cơ quan chức năng Mỹ cũng đang cân nhắc về việc thông qua dự án do lo ngại công nghệ sẽ bị lạm dụng và vi phạm các quy định về đạo đức.
+Công nghệ kiểm soát trí não trở thành trọng tâm nghiên cứu phát triển của DARPA trong những năm gần đây. Lầu Năm Góc hồi tháng hai tuyên bố sẵn sàng tiếp nhận đề xuất nghiên cứu công nghệ trí não thế hệ mới từ giới chuyên gia.
+Nguyễn Hoàng (Theo RT)

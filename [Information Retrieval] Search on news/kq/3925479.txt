@@ -1,0 +1,7 @@
+
+Google theo dõi việc mua hàng của người dùng qua Gmail 
+
+"Chỉ có bạn mới có thể xem các giao dịch của bạn" Google ghi trên trang lưu trữ, "Google bảo vệ sự riêng tư và an toàn của bạn". Mặc dù Google cho biết người dùng có thể xóa các giao dịch này trong 3 bước, thực tế sẽ mất nhiều công đoạn hơn. Đầu tiên, người dùng vào phần mua hàng để mở ra danh sách cụ thể các vật phẩm đã mua. Sau đó, nhấp vào nút "i" và chọn phần "vật phẩm này từ đâu?". Sau đó chọn phần "đã nhận" hoặc "xem email" để chuyển đến tài khoản Gmail, từ đó mới có thể xóa hoàn toàn giao dịch này ra khỏi lịch sử mua hàng của mình.
+Google cho biết họ còn theo dõi các giao dịch của khách hàng sử dụng các dịch vụ do Google cung cấp, như Google Express hay Google Play Store, thậm chí qua Google Assistant. Người phát ngôn của Google cho biết, việc theo dõi này nhằm giúp người dùng có thể xem các giao dịch hay đăng ký của mình. Người này khẳng định Google không sử dụng bất kỳ thông tin nào từ Gmail để phát tán quảng cáo.
+Hãng tìm kiếm khổng lồ này đã "cải tổ" lại trung tâm mua sắm của mình để người dùng có thể mua hàng trực tiếp từ chính Google, nhằm tạo ra một cú "hích" trong mua sắm trực tuyến. Cuối năm ngoái, Google đã cho phép người dùng mua các sản phẩm xuất hiện trong video của Youtube như đồ dùng trang điểm trong các video dạy trang điểm.
+Huy Đức (theo Cnet)

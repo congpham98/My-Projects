@@ -1,0 +1,10 @@
+
+iOS 13 với chế độ tối sẽ ra mắt 3/6 
+
+Trong thư mời báo chí tham dự Hội nghị các nhà phát triển toàn cầu (WWDC) thường niên, Apple cho biết sự kiện sẽ diễn ra từ ngày 3 đến ngày 7/6 tại Trung tâm Hội nghị McEnery, San Jose, California (Mỹ). Trong thời gian này, công ty iPhone sẽ bắt đầu bài phát biểu khai mạc của mình bằng việc giới thiệu phiên bản mới của các nền tảng. Sau đó, các nhà phát triển sẽ trình bày ý kiến, cũng như đưa ra các sản phẩm mới.
+Như thường lệ, Apple sẽ lần lượt giới thiệu phiên bản mới của các nền tảng trên thiết bị của mình, bao gồm iOS 13 cho iPhone, iPad và iPod touch; macOS 10.15 cho máy Mac; watchOS 6 cho Apple Watch; và tvOS 13 cho Apple TV.
+Theo Ars Technica, iOS 13 sẽ có thay đổi lớn hơn cả. Những rò rỉ trước đây cho thấy, nền tảng dành cho di động của Apple sẽ có thêm chế độ tối (Dark Mode) tương tự macOS Mojave năm ngoái. Đây là tính năng được người dùng mong chờ từ lâu. Khi kích hoạt chế độ này, giao diện trên iPhone, iPad sẽ chuyển sang tông màu đen, từ đó đem đến sự dễ chịu cho mắt khi sử dụng vào ban đêm cũng như tiết kiệm năng lượng cho máy.
+Bên cạnh đó, nền tảng di động này cũng hỗ trợ biến iPad thành màn hình phụ cho máy Mac, thay vì phải sử dụng phần mềm bên thứ ba. Các cải tiến khác bao gồm khả năng chuyển đổi linh hoạt giữa các phiên bản khác nhau của cùng một ứng dụng, tối ưu hoá đa nhiệm, thiết kế lại giao diện màn hình chính, bổ sung việc nhắc nhở thời gian dùng điện thoại...
+Trong khi đó, macOS 10.15 chủ yếu hỗ trợ các nhà phát triển. Công ty Mỹ nhiều khả năng sẽ hé lộ Project Marzipan - công cụ cho phép các nhà phát triển tạo một ứng dụng có thể hoạt động trên cả iPhone, iPad và Mac, đồng thời sẽ loại bỏ ứng dụng 32-bit.
+Theo truyền thống, Apple sẽ phát hành bản beta dành cho nhà phát triển trong ngày công bố. Phiên bản thử nghiệm công khai cho người dùng sẽ được tung ra vài tuần sau đó, trước khi ra mắt chính thức vào tháng 9 tới.
+Lâm Anh (theo 9to5mac, Ars Technica)

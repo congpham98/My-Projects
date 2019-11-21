@@ -1,0 +1,6 @@
+
+Bài toán của học sinh cấp 1 'hại não' cư dân mạng 
+
+Bài toán như sau:
+Có hai thùng dầu. Sau khi người ta đổ 5l dầu từ thùng thứ nhất sang thùng thứ hai thì số dầu ở hai thùng bằng nhau. Hỏi lúc đầu thùng thứ nhất có nhiều hơn thùng thứ hai bao nhiêu lít dầu?
+Học sinh đưa ra đáp án là 10lit, trong khi đó giáo viên cho là 5lit. Theo bạn thì bài toán này kết quả là bao nhiêu?

@@ -1,0 +1,4 @@
+
+Ứng dụng My Peugeot cho chủ xe Peugeot 3008 và 5008 
+
+Ứng dụng hiện có hai phiên bản Android và iOS. Để đăng nhập ứng dụng, người dùng nhập số biển số xe hoặc 8 ký tự cuối của số VIN. Sau đó chọn cách thức xác thực để hệ thống gửi mã xác thực về điện thoại và nhập mã xác thực vào ô xác thực tài khoản.

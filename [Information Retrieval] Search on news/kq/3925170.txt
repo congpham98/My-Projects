@@ -1,0 +1,11 @@
+
+Công nghệ định vị trên đồng hồ thông minh cho trẻ 
+
+Tùy thuộc vào mục đích sử dụng, phụ huynh có thể lựa chọn những chiếc đồng hồ với công nghệ định vị khác nhau:
+- Định vị LBS (Location Based Service): là hệ thống định vị theo các trạm thu phát sóng BTS của nhà mạng di động, chủ yếu sử dụng để xác định các mục tiêu từ xa thông qua ứng dụng trên điện thoại, máy tính. Do đó, thiết bị tích hợp công nghệ này có thể định vị sai số nhiều hơn thực tế. Tuy nhiên, LBS có thể xác định vị trí của chủ thể trong phòng kín, nhà cao tầng, trong hầm - những nơi có vật cản phía trên mà GPS khó làm được. Nên chọn phương thức LBS khi không yêu cầu tính xác cao, hạn chế bé gọi cho người lạ, đồng hồ nhỏ gọn.
+- Định vị GPS (Global Positioning System): là hệ thống định vị toàn cầu do Bộ Quốc phòng Mỹ phát triển và vận hành, hoạt động dựa vào hệ thống vệ tinh nhân tạo bay quanh Trái Đất. Đặc điểm nổi bật của hệ thống này là cho tính chính xác cao và hoạt động trong bất kỳ điều kiện thời tiết. Tuy nhiên GPS chỉ hoạt động tốt khi bạn đang ở ngoài trời, phù hợp cho phụ huynh muốn định vị chính xác vị trí của con. Đối với những nơi có vật cản phương thức định vì này có thể bị hạn chế.
+- Định vị Wi-Fi: chỉ xuất hiện trên một số dòng đồng hồ cao cấp, phương thức này dựa vào vị trí của các bộ Wi-Fi xung quanh đồng hồ trẻ em. Các khu vực trung tâm thành phố đồng hồ cho vị trí chính xác cao, tốc độ trả kết quả nhanh gần như ngay lập tức. Tuy nhiên, ở những nơi mạng Internet kém thì có thể không sử dụng được chế độ định vị này.
+- Định vị Glosnass (Globalnaya Navigatsionnaya Sputnikovaya Sistema) do Nga phát triển, có hệ thống vệ tinh bay trên 3 mặt phẳng quỹ đạo giúp việc xác định vị trí chính xác, chức năng tương tự như hệ thống định vị GPS, Glosnass cho độ chính xác ngang bằng với GPS. Nếu đồng hồ thông minh sử dụng định vị GPS và Glosnass, độ chính xác sẽ rất cao. Để tiết kiệm pin cho đồng hồ, định vị Glosnass chỉ kích hoạt khi tín hiệu định vị GPS yếu.
+- Định vị Beidou (Bắc Đẩu): là hệ thống định vị do Trung Quốc phát triển, phủ khắp ở châu Á và tây Thái Bình Dương. Chính vì hoạt động trong phạm vi nhỏ hơn GPS và Glosnass nên Beidou cho độ chính xác cao, sai số chỉ trong khoảng 10m.
+Shop VnExpress giới thiệu một số mẫu đồng hồ định vị thông minh dành cho trẻ em cùng các chế độ định vị giúp phụ huynh dễ dàng lựa chọn:
+Tâm An

@@ -1,0 +1,10 @@
+
+5 tính năng mới trên iOS 13 mà Apple ít nhắc tới 
+
+Ngày 4/6, Apple giới thiệu iOS 13 với một loạt tính năng mới. Tuy nhiên trên bản thử nghiệm, 9to5mac còn phát hiện một số nâng cấp phần mềm cho iPhone có thể đem lại trải nghiệm tốt cho người dùng.
+Để cải thiện tuổi thọ của viên pin trong iPhone, Apple bổ sung tùy chọn Optimized Battery Charging (Tối ưu hóa sạc pin). Khi kích hoạt, nó sẽ "học thói quen sạc hằng ngày của người dùng và có thể chờ để sạc được trên 80% pin đến khi người dùng cần". Tính năng mới xuất hiện trong phần Settings > Battery > Battery Health.
+Với iOS 13, chụp ảnh màn hình trên Safari sẽ cho phép ghi lại toàn bộ nội dung của trang web thay vì chỉ phần đang hiển thị trên màn hình. Để sử dụng, người dùng chụp như thông thường và bấm vào nút "Full Page" để lấy toàn trang. Tính năng mới chỉ hoạt động với Safari mà không hỗ trợ các ứng dụng khác.
+Một số người dùng có thói quen mở rất nhiều tab khi duyệt web và quên sự tồn tại của nó. iOS 13 sẽ cho phép "dọn dẹp" các tab này sau một ngày, một tuần hoặc một tháng tùy chọn. Để cài đặt tự động đóng tab, truy cập Settings > Safari > Close Tabs.
+Low Data Mode được thêm vào iOS 13, hỗ trợ giảm dung lượng mạng trong quá trình sử dụng iPhone. Tính năng mới có thể bật trong Settings > Cellular > Cellular Data Options. Low Data Mode sẽ tự động kích hoạt khi người dùng phát Wi-Fi (hotspot) cho các thiết bị khác.
+Không chỉ cải tiến giao diện, CarPlay trên iOS 13 còn cho phép xem ứng dụng độc lập. Chẳng hạn khi người dùng đang mở Bản đồ trên CarPlay, ứng dụng này sẽ tiếp tục hoạt động ngay cả khi iPhone chuyển sang dùng ứng dụng khác, cho phép lái xe tiếp tục theo dõi đường đi, trong khi người bên cạnh lựa chọn một bài hát trên iPhone.
+Bảo Anh

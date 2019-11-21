@@ -1,0 +1,4 @@
+
+Thử thách với bài toán đếm trong kỳ thi APMOPS 2019 
+
+Sau đây là một trong các bài toán hay của vòng 1 kỳ thi APMOPS 2019 được tổ chức tháng 4/2019.

@@ -1,0 +1,43 @@
+
+Hóa đơn tiền điện 66 triệu đồng và 'hành trình' tìm lời giải của tôi 
+
+Độc giả Lê Quốc Kiên, đang sống ở TP HCM, chia sẻ về hóa đơn tiền điện mới nhất:
+Tôi là một khách hàng sử dụng lượng điện khá nhiều từ Tập đoàn Điện lực Việt Nam (EVN). Kỳ điện tháng 3/2019 (trước thời điểm tăng giá điện 20/3/2019), tôi phải thanh toán khoảng 38.4 triệu đồng tiền điện cho các căn nhà cho thuê.
+Tháng 4 này, khi tổng các hóa đơn tiền điện lên đến 66,6 triệu đồng (tăng đến 73%), tôi thật sự hoang mang.
+Dạo một vòng trên mạng, tôi thấy mình không phải là trường hợp cá biệt, mà rất đông người rơi vào hoàn cảnh tương tự: Hóa đơn thanh toán tiền điện tăng cao hơn rất nhiều con số tăng giá 8,37% do EVN công bố.
+Vậy phải chăng EVN đang "lừa" người tiêu dùng, hay người tiêu dùng đang vô tình "khẩu nghiệp" khi trách nhầm EVN? (Nội dung áp dụng cho điện sinh hoạt).
+Phân tích lại các số liệu, tôi nhận hóa đơn điện tăng kinh hoàng vậy vì 3 nguyên nhân, và chúng ta đang bỏ sót 2 nguyên nhân quan trọng.
+1.1. Nguyên nhân 1 – Nguyên nhân quan trọng nhất
+"Chỉ so sánh số tiền điện phải thanh toán, chưa quan tâm số lượng điện sử dụng giữa hai tháng tăng cao do mùa nóng".
+
+Trong tháng 4, lượng điện tiêu thụ của tôi là 27.182kWh, cao hơn lượng điện tháng 3 đến 9.574kWh tương đương 54% (tháng 3 sử dụng chỉ 17.106 kWh). (1)
+Các lý do dẫn đến số lượng điện sử dụng tăng cao:
+Thời tiết nắng nóng làm nhu cầu sử dụng điện tăng cao, đặc biệt tần suất mở máy lạnh thường xuyên hơn. Ví dụ: trước đây chỉ cần mở máy lạnh vào 12h00-13h00 và 20h00-23h00 cho dễ bắt đầu giấc ngủ, thì nay mở luôn 12h30-14h00 và 20h00-24h00 (thậm chí để tới sáng).
+Thời tiết nắng nóng làm các thiết bị tiêu thụ điện nhiều hơn dù cùng một khoảng thời gian sử dụng. Ví dụ: Giả sử tháng 4 có thời gian sử dụng máy lạnh như tháng 3, nhưng chắc chắn lượng điện tiêu thụ của tháng 4 vẫn nhiều hơn, vì dưới thời tiết 38 độ C- 40 độ C ở bên ngoài, máy lạnh sẽ chạy "cực và liên tục" hơn nhiều để đưa nhiệt độ phòng về 26 độ C so với khi thời tiết bên ngoài khoảng 32 độ C ở tháng trước. Hoặc bạn có thể chú ý máy lạnh mở buổi tối (20h-23h) sẽ chạy êm nhẹ, ít hao điện hơn máy lạnh mở buổi trưa (11h-14h) trong cùng 3 tiếng sử dụng.
+Với hoạt động cho thuê phòng/căn hộ của tôi thì có một lý do nữa là: Kỳ thu tiền điện tháng 3 (5/2- 5/3) rơi vào khoảng thời gian Tết. Nhiều khách thuê phòng/căn hộ của tôi về quê/đi chơi vắng phòng/căn hộ nhiều ngày trong thời gian này.
+Một lý do nữa đang được nhiều người đề cập đến là "EVN tính ăn gian làm số lượng điện sử dụng tăng cao". Tôi cũng đã kiểm tra tổng số điện sử dụng của các hộ trong từng căn nhà (mỗi hộ thuê nhà tôi đều có đồng hồ riêng) và so sánh lại với tổng số lượng điện phải thanh toán cho điện lực thì hai con số này cũng gần bằng nhau tương tự các tháng trước (mỗi căn nhà tôi hao hụt 100 kWh-150 kWh/tháng cho điện công cộng, máy bơm). Do đó, lý do "EVN đếm điện ăn gian" này không đúng với nhà tôi.
+1.2. Nguyên nhân 2 – Hệ quả của nguyên nhân 1, và là nguyên nhân ít người để ý nhất
+"Số lượng điện sử dụng càng tăng, chúng ta càng bị áp giá điện ở các mức càng cao" (2).
+Từ hàng chục năm nay, EVN đã áp dụng giá điện sinh hoạt theo 6-7 mức giá tăng dần (từ 2014 đến nay là 6 mức, từ 2013 trở về đến 2010 là 7 mức).
+Ví dụ 1: Một hộ gia đình 4 người nếu chỉ sử dụng điện để thắp sáng, quạt mát, tủ lạnh 180 lít, xem tivi thì hàng tháng chỉ sử dụng khoảng 200 kWh điện. Theo bậc giá trên thì hóa đơn tiền điện (chưa VAT) khoảng 343.000đ với giá 2018, 372.000đ với giá 2019 (tăng 8,38% gần bằng thông báo của điện lực).
+Ví dụ 2: Cũng hộ gia đình 4 người đó nếu sử dụng điện cho máy nước nóng, máy lạnh, tủ lạnh 300 lít, dàn loa hát karaoke, bếp điện từ, lò vi sóng... thì hàng tháng có thể sử dụng 600kWh điện. Theo bậc giá trên thi bill tiền điện (chưa VAT) khoảng 1.379.000 đồng với giá 2018, 1.494.000 đồng với giá 2019 (tăng 8,37% gần bằng thông báo của điện lực).
+Rõ ràng cùng một hộ gia đình 4 người, nhu cầu sử dụng điện khác nhau có thể làm số lượng điện sử dụng tăng gấp 3 lần, và bill tiền điện tăng gấp 4 lần.
+Quay trở lại với một ví dụ hóa đơn tiền điện của tôi ở quận 9. Với lượng điện sử dụng 6.613 kWh ở tháng 3, tôi chỉ bị áp giá điện cao nhất đến bậc 3 (chỉ 5 kWh bị áp giá bậc 4 quá ít nên khỏi tính). Tuy nhiên, sang tháng 4 tôi đã bị áp đến 3.027 kWh ở giá bậc 4 (giá cũ 2.304 đ/kWh, giá mới 2.536 đ/kWh. Điều này dẫn đến: tuy lượng điện tiêu thụ chỉ tăng 58%, nhưng tiền điện lại tăng đến 82%.
+
+Tương tự ở các căn nhà khác, trong tháng 4 này số lượng điện sử dụng bị áp giá bậc cao cũng nhiều hơn tháng trước.
+"EVN tăng giá điện 8,36%" (3)
+Rõ ràng, trong 3 nguyên nhân trên phần lớn chúng ta chỉ thấy nguyên nhân số 3 - Điện tăng giá 8,36% - mà bỏ qua hai nguyên nhân đầu, trong khi hai nguyên nhân đầu mới là nguyên nhân chính làm hóa đơn tiền điện tăng khủng khiếp như hiện tại.
+Muốn kiểm tra việc này, chúng ta cần phải đưa số điện sử dụng của tháng trước tăng giá và sau tăng giá về bằng nhau để loại trừ hai nguyên nhân gây chênh lệch số lượng điện sử dụng (1.1) và bậc giá áp dụng (1.2) ở trên.
+VD: Một hộ gia đình 4 người nếu tháng trước xài 600kWh điện, tháng này do nắng nóng xài 780kWh điện. Để kiểm tra mức độ tăng giá, chúng ta lấy 600kWh tính bằng cả giá cũ và giá mới để ra chi phí điện phải trả, sau đó so sánh hai con số sẽ ra chính xác % tăng giá. (Hoặc chúng ta cũng có thể làm tương tự như trên với 780kWh).
+Nếu bạn vẫn nghi ngờ "EVN đếm số lượng điện sử dụng ăn gian", đây là cách đơn giản nhất để bạn tự kiểm tra lại đồng hồ của EVN:
+Mua một đồng hồ điện loại tốt khoảng 350.000 đồng – 400.000 đồng gắn vào ngay sau đồng hồ điện của EVN để kiểm tra đối chứng.
+Hàng tháng, bạn chỉ việc kiểm tra số điện sử dụng ở hai đồng hồ sẽ chắc chắn được "Số điện sử dụng của mình có bị EVN đếm sai hay không".
+Tuy nhiên, chúng ta cũng nên chấp nhận hao hụt đường truyền và sai số giữa hai đồng hồ điện trong phạm vi 1,5%. Ví dụ nếu đồng hồ của EVN là 1000 kWh điện, đồng hồ của bạn có thể là 985 kWh hay 1015 kWh, chứ không chắc chắn đúng y bong 1000 kWh như đồng hồ EVN.
+Một cách rất đơn giản nhưng nhiều gia đình hay bỏ qua do không biết. Đó là: đăng ký định mức điện cho các nhân khẩu đang thường trú/ tạm trú tại nhà.
+Ví dụ: Một hộ gia đình có 4 nhân khẩu (cha, mẹ, 2 người con trai) được EVN áp dụng định mức "1 hộ" trong một thời gian dài.
+Sau này, 2 người con lớn lên có gia đình riêng (thêm 2 người con dâu) và vẫn ở chung với nhà bố mẹ, rồi mỗi người con lại sinh ra 2 đứa cháu cho ông bà (thêm 4 người cháu), nâng tổng số người ở trong nhà lên 10 nhân khẩu.
+Nếu đăng ký lại định mức điện với điện lực ta sẽ được hưởng giá điện rẻ cho 2,5 hộ (4 nhân khẩu/1 hộ), thay cho định mức "1 hộ" như trước đây.
+Giả sử hàng tháng gia đình này sử dụng 1.000 kWh điện, cách áp dụng định mức điện cho 2,5 hộ sẽ giảm được 431.970 đồng (giảm 17,28%) so với chỉ áp dụng định mức điện cho một hộ như trước đây.
+Nội dung phân tích ở trên chỉ tập trung vào số liệu cụ thể của tôi về việc sử dụng điện trong hai tháng trước và sau tăng giá. Các vấn đề khác liên quan đến hiệu quả hoạt động kinh doanh của EVN tôi không đủ hiểu biết nên xin không bình luận.
+Hy vọng chút ít thông tin ở trên sẽ giúp ích được chút gì đó cho mọi người.
+>> Hóa đơn tiền điện của nhà bạn có bị tính sai, tăng cao bất thường? Chia sẻ bài viết của bạn cho trang Ý kiến  tại đây.
